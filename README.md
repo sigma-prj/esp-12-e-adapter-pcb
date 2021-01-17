@@ -12,7 +12,7 @@ Project is built using KiCad version 5.0.2
 Typical Connection Schema
 -----------------------------
 
-In order to build and run projects on this module you can use the folloing connection schema:
+In order to build and run projects on this module the following connection schema can be used:
 
 ![ESP-12E Connection Schema](https://github.com/sigma-prj/esp-12-e-adapter-pcb/blob/main/resources/esp12e_conn_vcc_sc.png)
 
