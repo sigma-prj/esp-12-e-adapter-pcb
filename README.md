@@ -1,4 +1,4 @@
-ESP-12E \ ESP-12F Adapter PCB KiCad Project & Gerber Files
+ESP-12E \ ESP-12F Adapter PCB Design
 ==============
 
 This repository contains set of Gerber files and KiCad source project for ESP-12E\ESP-12F adapter PCB.
